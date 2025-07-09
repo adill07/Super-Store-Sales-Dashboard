@@ -25,22 +25,14 @@
      - Uncovers key trends in consumer behavior, payment methods, and regional demand to guide strategic business actions.
 
   🧭 Walkthrough of Key Visuals
-      📌 Key KPIs 
-         - Shows overall Sales ($1.6M), Profit ($175K), Orders (22K), and Average Shipping Days (4) to give an instant business snapshot.
-      📦 Sales by Category & Sub-Category
-         - Bar charts highlight best-selling categories like Office Supplies and top sub-categories like Phones and Chairs, guiding stock decisions.
-      🛫 Sales by Ship Mode
-         - Shows shipping preference, where Standard Class dominates, helping improve logistics and delivery strategy.
-      📅 Monthly Sales & Profit by Year
-         - Area charts reveal seasonal trends and year-over-year performance, useful for promotional and demand forecasting.
-      🗺️ Sales by Region & State
-         - Map and donut visuals show strong performance in West (33%) and top states like California and New York, aiding regional marketing.
-      👥 Sales by Segment
-         - Shows dominance of the Consumer segment (48%), emphasizing the need for personalized offers and retention plans.
-      💳 Sales by Payment Mode
-         - Cash on Delivery (43%) is still the most preferred payment method, but the combined share of Online (35%) and Card payments (22%) shows that digital transactions are steadily growing.
-      📈 Sales Forecasting (15-day)
-         - Line graph projects future sales trends to help in planning stock, staffing, and campaigns.
+      - 📌 Key KPIs: Shows overall Sales ($1.6M), Profit ($175K), Orders (22K), and Average Shipping Days (4) to give an instant business snapshot.
+      - 📦 Sales by Category & Sub-Category: Bar charts highlight best-selling categories like Office Supplies and top sub-categories like Phones and Chairs, guiding stock decisions.
+      - 🛫 Sales by Ship Mode: Shows shipping preference, where Standard Class dominates, helping improve logistics and delivery strategy.
+      - 📅 Monthly Sales & Profit by Year: Area charts reveal seasonal trends and year-over-year performance, useful for promotional and demand forecasting.
+      - 🗺️ Sales by Region & State: Map and donut visuals show strong performance in West (33%) and top states like California and New York, aiding regional marketing.
+      - 👥 Sales by Segment: Shows dominance of the Consumer segment (48%), emphasizing the need for personalized offers and retention plans.
+      - 💳 Sales by Payment Mode: Cash on Delivery (43%) is still the most preferred payment method, but the combined share of Online (35%) and Card payments (22%) shows that digital transactions are steadily growing.
+      - 📈 Sales Forecasting (15-day): Line graph projects future sales trends to help in planning stock, staffing, and campaigns.
 
   💡 Business Impact & Insights
         - 📍 Regional Focus: Redirect marketing and supply efforts to top-performing areas like California, New York, and the West region.
