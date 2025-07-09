@@ -2,20 +2,17 @@
 
 A dynamic and insightful Power BI dashboard to analyze Superstore sales performance, forecast trends, and support business decision-making.
 
----
 
 ## 🏷️ 1. Project Title / Headline
 
 - **Superstore Sales Performance Dashboard**
 - **Power BI Dashboard: Uncovering Actionable Insights from Superstore Sales**
 
----
 
 ## 📝 2. Project Description
 
 This Power BI dashboard provides a comprehensive analysis of a retail superstore’s sales, profit, and order trends across different categories, regions, segments, and time periods. It also includes a short-term sales forecast to assist in business planning. The visuals help identify high-performing areas and opportunities for improvement.
 
----
 
 ## ⚙️ 3. Tech Stack
 
@@ -27,7 +24,6 @@ The dashboard was built using the following tools and technologies:
 - 📝 **Data Modeling** – Relationships established among fact and dimension tables (e.g., Orders, Products, Customers) to enable accurate aggregation and cross-filtering.  
 - 📁 **File Format** – `.pbix` used for development; `.png` used for exporting visual previews for portfolio or social sharing.
 
----
 
 ## 🌟 4. Features / Highlights
 
@@ -61,7 +57,6 @@ Retail businesses often find it difficult to track their sales, profits, and cus
 - 💳 **Digital Enablement:** Though **COD (43%)** leads, the combined **Online (35%)** and **Card (22%)** usage shows a clear growth trend in digital transactions.  
 - 📈 **Future Readiness:** Use short-term forecasts to prepare for upcoming demand spikes and better resource allocation.
 
----
 
 ## 🖼️ 5. Screenshots / Demos
 
@@ -72,12 +67,7 @@ Retail businesses often find it difficult to track their sales, profits, and cus
 ![Sales Forecast](https://github.com/adill07/Super-Store-Sales-Dashboard/blob/main/Sales_Forecast_image.jpg)
 
 
-
----
-
 🔗 **Author**: Mohammed Adil Ansari  
 💼 **Role**: Aspiring Data Analyst  
 📧 **Email**: adilansari0701@gmail.com
-
----
 
