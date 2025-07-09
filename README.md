@@ -68,6 +68,7 @@ Retail businesses often find it difficult to track their sales, profits, and cus
 - 📌 [**Dashboard Preview**](https://github.com/adill07/Super-Store-Sales-Dashboard/blob/main/Dashboard_image.jpg)  
 - 📌 [**Sales Forecast Section**](https://github.com/adill07/Super-Store-Sales-Dashboard/blob/main/Sales_Forecast_image.jpg)
 
+
 ---
 
 🔗 **Author**: Mohammed Adil Ansari  
